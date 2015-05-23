@@ -1,0 +1,20 @@
+---
+galaxy_info:
+  author: Sebas
+  description: Drupal bootstrap and build using Kraftwagen.
+  company: "Taller"
+  license: "license (BSD, MIT)"
+  min_ansible_version: 1.0
+  platforms:
+  - name: EL
+    versions:
+    - 6
+    - 7
+  - name: Debian
+    versions:
+    - all
+  - name: Ubuntu
+    versions:
+    - all
+  categories:
+    - development
