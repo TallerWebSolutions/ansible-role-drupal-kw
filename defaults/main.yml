@@ -25,7 +25,7 @@ drupal_project_branch: master
 drupal_env: production
 drupal_www_group: www-data
 drupal_admin_name: admin
-drupal_kw_source: https://github.com/kraftwagen/kraftwagen.git
-drupal_kw_source_branch: master
+drupal_kw_source: https://github.com/TallerWebSolutions/kraftwagen.git
+drupal_kw_source_branch: taller
 drupal_kw_skeleton_source: git://github.com/kraftwagen/skeleton.git
 drupal_kw_skeleton_branch: master
